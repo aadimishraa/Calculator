@@ -50,18 +50,12 @@ Each button dispatches a corresponding action to update the calculator state acc
 
 ---
 
-## 🖥️ Demo
-
-![Calculator UI Screenshot](https://via.placeholder.com/600x300?text=Calculator+UI)  
-*(Replace with your own screenshot if available)*
-
----
 
 ## ▶️ Getting Started
 
 1. **Clone the repo**
-   git clone https://github.com/yourusername/react-calculator.git
-   cd react-calculator
+   git clone https://github.com/aadimishraa/Calculator.git
+   cd Calculator
 
 2. **Install dependencies**
     npm install
