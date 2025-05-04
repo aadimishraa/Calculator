@@ -15,19 +15,6 @@ This is a simple **React Calculator App** built using functional components and 
 
 ---
 
-## 📁 Project Structure
-
-src/
-│
-├── App.js # Main calculator logic and layout
-├── App.css # Styling for the calculator UI
-├── DigitButton.js # Custom button component for digits (0–9, .)
-├── OperationButton.js # Custom button component for operations (+, −, ×, ÷)
-└── index.js # Entry point
-
-
----
-
 ## 🧠 Technologies Used
 
 - **React** (with `useReducer`)
@@ -54,11 +41,11 @@ Each button dispatches a corresponding action to update the calculator state acc
 ## ▶️ Getting Started
 
 1. **Clone the repo**
-   git clone https://github.com/aadimishraa/Calculator.git
-   cd Calculator
+   ```git clone https://github.com/aadimishraa/Calculator.git```
+   ```cd Calculator```
 
 2. **Install dependencies**
-    npm install
+    ```npm install```
 
 3. **Start the development server**
-    npm start
+    ```npm start```
